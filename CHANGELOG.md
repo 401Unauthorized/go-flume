@@ -6,6 +6,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) 
 ## [Unreleased]
 - Work in progress for refactoring tests, improving error handling, and adding more examples.
 
+## [1.0.1] - 2025-06-09
+### Added
+
+### Changed
+
+### Fixed
+- Updated package name to `goflume` (was main) since this is a library, not an executable.
+
+### Deprecated
+
+### Removed
+
 ## [1.0.0] - 2025-06-09
 ### Added
 - Initial release of go-flume: a Go client for the Flume Personal API

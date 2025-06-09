@@ -1,4 +1,4 @@
-package main
+package goflume
 
 type APIResponseEnvelope struct {
 	Success     bool   `json:"success"`

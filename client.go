@@ -1,4 +1,4 @@
-package main
+package goflume
 
 import (
 	"net/http"

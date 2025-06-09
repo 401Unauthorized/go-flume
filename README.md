@@ -5,7 +5,7 @@
 <h1 align="center">Go Flume API Client</h1>
 <h3 align="center">A Go client for the Flume Personal API.</h3>
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-green.svg" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-green.svg" />
   <a href="https://github.com/401unauthorized/go-flume#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-green.svg" />
   </a>
